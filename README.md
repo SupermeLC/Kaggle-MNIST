@@ -10,15 +10,13 @@ Output: 10
 
 Five files:
 
-#==================================================
 
-1.	Autoencoder
+## 1.	Autoencoder
 
     Key Words: Xaiver distribution
 
-#==================================================
 
-2.	Softmax
+## 2.	Softmax
 
     Use SoftMax function to train the data.
 
@@ -26,9 +24,8 @@ Five files:
 
     Result: 92.05%
 
-#==================================================
 
-3.	NN
+## 3.	NN
 
     Use ANN to train the data.
 
@@ -36,9 +33,8 @@ Five files:
 
     Result: 97.99%
 
-#==================================================
 
-4.	Double_NN
+## 4.	Double_NN
 
     Use two hidden layers to train the data
 
@@ -46,14 +42,11 @@ Five files:
 
     Result: 98.11%
 
-#==================================================
 
-5.	CNN
+## 5.	CNN
 
     Use CNN to train the data
 
     Key Words: (conv[5,5]-pool-conv[5,5]-pool-fc[1024]-fc)
 
     Results: 99.19%
-
-#==================================================
