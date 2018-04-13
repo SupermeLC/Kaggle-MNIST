@@ -1,8 +1,8 @@
 # MNIST
-This project bases on the Kaggle digital recognition competition.  
-Data: From the TensorFlow’s package.  
-Input: 28*28=784  
-Output: 10  
+    This project bases on the Kaggle digital recognition competition.  
+    Data: From the TensorFlow’s package.  
+    Input: 28*28=784  
+    Output: 10  
 Five files:  
 
 
